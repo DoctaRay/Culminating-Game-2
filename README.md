@@ -4,6 +4,6 @@ Project is based on an IDEA project directory. Was built using the [LibGDX game 
 
 Source files are under "core/src/com.mygdx.game".
 
-To run game, import project from "culgame3" folder. Then right-click the desktop project and click "run"
+To run game, import project from "culgame3" folder on netbeans. Then right-click the desktop project and click "run"
 
 
