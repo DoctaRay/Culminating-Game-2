@@ -4,9 +4,6 @@ Project is based on an IDEA project directory. Was built using the [LibGDX game 
 
 Source files are under "core/src/com.mygdx.game".
 
-To run game, go to "desktop/build/libs" in the terminal and run 
-```
-java -jar desktop-1.0.jar
-```
+To run game, import project from "culgame3" folder. Then right-click the desktop project and click "run"
 
 
