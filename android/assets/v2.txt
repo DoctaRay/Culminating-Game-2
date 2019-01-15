@@ -1,0 +1,34 @@
+
+v2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+famas
+  rotate: false
+  xy: 1284, 1881
+  size: 461, 157
+  orig: 461, 157
+  offset: 0, 0
+  index: -1
+markplier
+  rotate: false
+  xy: 2, 596
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+shrek
+  rotate: false
+  xy: 2, 1318
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+vape2
+  rotate: false
+  xy: 2, 2
+  size: 840, 592
+  orig: 840, 592
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+CulGame.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+black_mage
+  rotate: false
+  xy: 504, 132
+  size: 574, 370
+  orig: 574, 370
+  offset: 0, 0
+  index: -1
+frieza
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+spongebob
+  rotate: false
+  xy: 1080, 185
+  size: 467, 317
+  orig: 467, 317
+  offset: 0, 0
+  index: -1
